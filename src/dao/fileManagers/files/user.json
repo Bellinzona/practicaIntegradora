@@ -1,0 +1,19 @@
+[
+    {
+        "usuarioNombre": "mateo",
+        "apellido": "bellinzona",
+        "id": 1
+    },
+    {
+        "usuarioNombre": "pablo",
+        "apellido": "bellinzona",
+        "numeroTelefono": 1232343,
+        "id": 1
+    },
+    {
+        "usuarioNombre": "carolina",
+        "apellido": "vargas",
+        "numeroTelefono": 1232343,
+        "id": 1
+    }
+]
